@@ -1,0 +1,32 @@
+Line 267: Class MSComCtl2.DTPicker of control DTPicker3 was not a loaded control class.
+Line 636: Class MSComCtl2.DTPicker of control DTPicker2 was not a loaded control class.
+Line 936: Class MSDBGrid.DBGrid of control DBGrid1 was not a loaded control class.
+Line 1097: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 273: The property name _ExtentX in DTPicker3 is invalid.
+Line 274: The property name _ExtentY in DTPicker3 is invalid.
+Line 275: The property name _Version in DTPicker3 is invalid.
+Line 285: The property name CalendarBackColor in DTPicker3 is invalid.
+Line 286: The property name CalendarForeColor in DTPicker3 is invalid.
+Line 287: The property name CalendarTitleBackColor in DTPicker3 is invalid.
+Line 288: The property name CalendarTitleForeColor in DTPicker3 is invalid.
+Line 289: The property name CalendarTrailingForeColor in DTPicker3 is invalid.
+Line 290: The property name Format in DTPicker3 is invalid.
+Line 291: The property name CurrentDate in DTPicker3 is invalid.
+Line 642: The property name _ExtentX in DTPicker2 is invalid.
+Line 643: The property name _ExtentY in DTPicker2 is invalid.
+Line 644: The property name _Version in DTPicker2 is invalid.
+Line 654: The property name CalendarBackColor in DTPicker2 is invalid.
+Line 655: The property name CalendarForeColor in DTPicker2 is invalid.
+Line 656: The property name CalendarTitleBackColor in DTPicker2 is invalid.
+Line 657: The property name Format in DTPicker2 is invalid.
+Line 658: The property name CurrentDate in DTPicker2 is invalid.
+Line 937: The property name Bindings in DBGrid1 is invalid.
+Line 940: The property name OleObjectBlob in DBGrid1 is invalid.
+Line 1103: The property name _ExtentX in DTPicker1 is invalid.
+Line 1104: The property name _ExtentY in DTPicker1 is invalid.
+Line 1105: The property name _Version in DTPicker1 is invalid.
+Line 1115: The property name CalendarBackColor in DTPicker1 is invalid.
+Line 1116: The property name CalendarForeColor in DTPicker1 is invalid.
+Line 1117: The property name CalendarTitleBackColor in DTPicker1 is invalid.
+Line 1118: The property name Format in DTPicker1 is invalid.
+Line 1119: The property name CurrentDate in DTPicker1 is invalid.
